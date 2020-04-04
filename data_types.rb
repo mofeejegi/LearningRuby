@@ -1,4 +1,3 @@
-
 name = ' Mofe '
 age = 75
 gpa = 3.4999
